@@ -1,3 +1,5 @@
 - stock v3
 - promotion v3
 - log v1
+
+tag v3.0
