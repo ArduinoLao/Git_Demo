@@ -2,4 +2,4 @@
 - promotion v3
 - log v1
 
-tag v3.0
+tag v2.0
